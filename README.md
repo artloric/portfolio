@@ -1,2 +1,1 @@
-# portfolio
-Portfolio displaying Project and Data Management projects 
+# Portfolio displaying Project and Data Management projects [Jonathan Tager]
